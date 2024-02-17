@@ -1,0 +1,22 @@
+# Arquivos de compilação gerados
+bin/
+obj/
+
+# Arquivos temporários
+[Tt]emp/
+[Oo]bj/
+
+# Arquivos de dependências
+*.dll
+*.exe
+*.pdb
+*.dll.config
+*.exe.config
+
+# Arquivos do Visual Studio
+.vs/
+*.vscode/
+
+# Folders
+[Dd]ebug*/
+[Rr]elease*/
