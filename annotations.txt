@@ -3,3 +3,6 @@ cd HelloMongo
 dotnet new console -n HelloMongo
 dotnet add package MongoDB.Driver
 dotnet run
+
+build
+dotnet publish -c Release -r win-x64
