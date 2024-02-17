@@ -1,6 +1,7 @@
 # Arquivos de compilação gerados
 bin/
 obj/
+obj
 
 # Arquivos temporários
 [Tt]emp/
